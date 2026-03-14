@@ -1,0 +1,44 @@
+{
+  "id": "11-3",
+  "chapter": 11,
+  "page": 583,
+  "name": "Dimensions and Basic Load Ratings for Cylindrical Roller Bearings",
+  "description": "Bore, OD, width, and dynamic/static load ratings for cylindrical roller bearings in 02-series and 03-series configurations.",
+  "notes": null,
+  "interpolable": false,
+  "valid_range":[25, 150],
+  "key_column": "Bore (mm)",
+  "series": {
+    "02": {
+      "name": "02-Series",
+      "columns": ["OD (mm)", "Width (mm)", "C10 (kN)", "C0 (kN)"]
+    },
+    "03": {
+      "name": "03-Series",
+      "columns": ["OD (mm)", "Width (mm)", "C10 (kN)", "C0 (kN)"]
+    }
+  },
+  "rows": [
+    {"Bore (mm)": 25,  "02": {"OD (mm)": 52,  "Width (mm)": 15, "C10 (kN)": 16.8, "C0 (kN)": 8.8},  "03": {"OD (mm)": 62,  "Width (mm)": 17, "C10 (kN)": 28.6, "C0 (kN)": 15.0}},
+    {"Bore (mm)": 30,  "02": {"OD (mm)": 62,  "Width (mm)": 16, "C10 (kN)": 22.4, "C0 (kN)": 12.0}, "03": {"OD (mm)": 72,  "Width (mm)": 19, "C10 (kN)": 36.9, "C0 (kN)": 20.0}},
+    {"Bore (mm)": 35,  "02": {"OD (mm)": 72,  "Width (mm)": 17, "C10 (kN)": 31.9, "C0 (kN)": 17.6}, "03": {"OD (mm)": 80,  "Width (mm)": 21, "C10 (kN)": 44.6, "C0 (kN)": 27.1}},
+    {"Bore (mm)": 40,  "02": {"OD (mm)": 80,  "Width (mm)": 18, "C10 (kN)": 41.8, "C0 (kN)": 24.0}, "03": {"OD (mm)": 90,  "Width (mm)": 23, "C10 (kN)": 56.1, "C0 (kN)": 32.5}},
+    {"Bore (mm)": 45,  "02": {"OD (mm)": 85,  "Width (mm)": 19, "C10 (kN)": 44.0, "C0 (kN)": 25.5}, "03": {"OD (mm)": 100, "Width (mm)": 25, "C10 (kN)": 72.1, "C0 (kN)": 45.4}},
+    {"Bore (mm)": 50,  "02": {"OD (mm)": 90,  "Width (mm)": 20, "C10 (kN)": 45.7, "C0 (kN)": 27.5}, "03": {"OD (mm)": 110, "Width (mm)": 27, "C10 (kN)": 88.0, "C0 (kN)": 52.0}},
+    {"Bore (mm)": 55,  "02": {"OD (mm)": 100, "Width (mm)": 21, "C10 (kN)": 56.1, "C0 (kN)": 34.0}, "03": {"OD (mm)": 120, "Width (mm)": 29, "C10 (kN)": 102.0,"C0 (kN)": 67.2}},
+    {"Bore (mm)": 60,  "02": {"OD (mm)": 110, "Width (mm)": 22, "C10 (kN)": 64.4, "C0 (kN)": 43.1}, "03": {"OD (mm)": 130, "Width (mm)": 31, "C10 (kN)": 123.0,"C0 (kN)": 76.5}},
+    {"Bore (mm)": 65,  "02": {"OD (mm)": 120, "Width (mm)": 23, "C10 (kN)": 76.5, "C0 (kN)": 51.2}, "03": {"OD (mm)": 140, "Width (mm)": 33, "C10 (kN)": 138.0,"C0 (kN)": 85.0}},
+    {"Bore (mm)": 70,  "02": {"OD (mm)": 125, "Width (mm)": 24, "C10 (kN)": 79.2, "C0 (kN)": 51.2}, "03": {"OD (mm)": 150, "Width (mm)": 35, "C10 (kN)": 151.0,"C0 (kN)": 102.0}},
+    {"Bore (mm)": 75,  "02": {"OD (mm)": 130, "Width (mm)": 25, "C10 (kN)": 93.1, "C0 (kN)": 63.2}, "03": {"OD (mm)": 160, "Width (mm)": 37, "C10 (kN)": 183.0,"C0 (kN)": 125.0}},
+    {"Bore (mm)": 80,  "02": {"OD (mm)": 140, "Width (mm)": 26, "C10 (kN)": 106.0,"C0 (kN)": 69.4}, "03": {"OD (mm)": 170, "Width (mm)": 39, "C10 (kN)": 190.0,"C0 (kN)": 125.0}},
+    {"Bore (mm)": 85,  "02": {"OD (mm)": 150, "Width (mm)": 28, "C10 (kN)": 119.0,"C0 (kN)": 78.3}, "03": {"OD (mm)": 180, "Width (mm)": 41, "C10 (kN)": 212.0,"C0 (kN)": 149.0}},
+    {"Bore (mm)": 90,  "02": {"OD (mm)": 160, "Width (mm)": 30, "C10 (kN)": 142.0,"C0 (kN)": 100.0},"03": {"OD (mm)": 190, "Width (mm)": 43, "C10 (kN)": 242.0,"C0 (kN)": 160.0}},
+    {"Bore (mm)": 95,  "02": {"OD (mm)": 170, "Width (mm)": 32, "C10 (kN)": 165.0,"C0 (kN)": 112.0},"03": {"OD (mm)": 200, "Width (mm)": 45, "C10 (kN)": 264.0,"C0 (kN)": 189.0}},
+    {"Bore (mm)": 100, "02": {"OD (mm)": 180, "Width (mm)": 34, "C10 (kN)": 183.0,"C0 (kN)": 125.0},"03": {"OD (mm)": 215, "Width (mm)": 47, "C10 (kN)": 303.0,"C0 (kN)": 220.0}},
+    {"Bore (mm)": 110, "02": {"OD (mm)": 200, "Width (mm)": 38, "C10 (kN)": 229.0,"C0 (kN)": 167.0},"03": {"OD (mm)": 240, "Width (mm)": 50, "C10 (kN)": 391.0,"C0 (kN)": 304.0}},
+    {"Bore (mm)": 120, "02": {"OD (mm)": 215, "Width (mm)": 40, "C10 (kN)": 260.0,"C0 (kN)": 183.0},"03": {"OD (mm)": 260, "Width (mm)": 55, "C10 (kN)": 457.0,"C0 (kN)": 340.0}},
+    {"Bore (mm)": 130, "02": {"OD (mm)": 230, "Width (mm)": 40, "C10 (kN)": 270.0,"C0 (kN)": 193.0},"03": {"OD (mm)": 280, "Width (mm)": 58, "C10 (kN)": 539.0,"C0 (kN)": 408.0}},
+    {"Bore (mm)": 140, "02": {"OD (mm)": 250, "Width (mm)": 42, "C10 (kN)": 319.0,"C0 (kN)": 240.0},"03": {"OD (mm)": 300, "Width (mm)": 62, "C10 (kN)": 682.0,"C0 (kN)": 454.0}},
+    {"Bore (mm)": 150, "02": {"OD (mm)": 270, "Width (mm)": 45, "C10 (kN)": 446.0,"C0 (kN)": 260.0},"03": {"OD (mm)": 320, "Width (mm)": 65, "C10 (kN)": 781.0,"C0 (kN)": 502.0}}
+  ]
+}
